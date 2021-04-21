@@ -80,6 +80,70 @@ It looks like you are setting up a website for a Software Carpentry curriculum b
 {% endunless %}
 {% endif %}
 
+<h2>Register Now!</h2>
+<p>Please register separately for each workshop in the series. </p>
+<div class="row">
+<div class="col-md-8">
+  <table>
+<table class="table table-striped">
+<tr> <td>May 11, 1 pm - 4:30 pm</td>  <td><!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7627923" matches with the above code: jQuery("#s_lc_event_7627923")  //-->
+<a id = "s_lc_event_7732844" href="https://uark.libcal.com/calendar/Data/UnixMay11">Intro Unix Shell</a>
+<!-- Below is optional element styling  //-->
+  <style>
+#s_lc_event_7732844 {
+  background: #2774AE;
+  border: 1px solid #2774AE;
+  border-radius: 4px;
+  color: #E7F5F3;
+  font: 14px Arial, Helvetica, Verdana;
+  padding: 8px 20px;
+  cursor: pointer;
+}
+#s_lc_event_7732844:hover {
+  opacity: 0.9;
+}
+</style>
+</td> </tr>
+      <tr> <td>May 13, 1 pm - 4:30pm </td>  <td><!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7627930" matches with the above code: jQuery("#s_lc_event_7627930")  //-->
+<a id="s_lc_event_7732854" href="https://uark.libcal.com/calendar/Data/GitMay13">Version Control with Git </a>
+<!-- Below is optional element styling  //-->
+<style>
+#s_lc_event_7732854 {
+  background: #2774AE;
+  border: 1px solid #2774AE;
+  border-radius: 4px;
+  color: #F7F2F2;
+  font: 14px Arial, Helvetica, Verdana;
+  padding: 8px 20px;
+  cursor: pointer;
+}
+#s_lc_event_7732854:hover {
+  opacity: 0.9;
+}
+</style>
+</td> </tr>
+       <tr> <td>May 17, 9 am - 12:30pm </td>  <td><!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7627930" matches with the above code: jQuery("#s_lc_event_7627930")  //-->
+<a id="s_lc_event_7732907" href="https://uark.libcal.com/calendar/Data/UNIXMay17">Intro to Unix Shell </a>
+<!-- Below is optional element styling  //-->
+<style>
+#s_lc_event_7732907 {
+  background: #2774AE;
+  border: 1px solid #2774AE;
+  border-radius: 4px;
+  color: #F7F2F2;
+  font: 14px Arial, Helvetica, Verdana;
+  padding: 8px 20px;
+  cursor: pointer;
+}
+#s_lc_event_7732907:hover {
+  opacity: 0.9;
+}
+</style>
+</td> </tr>
+ 
+  </table>
+
+
 {% comment %}
 EVENTBRITE
 
