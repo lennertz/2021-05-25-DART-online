@@ -230,7 +230,7 @@ address.
 {% elsif online == "true_private" %}
 <p id="where">
   <strong>Where:</strong> This training will take place online.
-  The instructors will provide you with the information you will need to connect to this meeting.
+  Connection information will be sent with your Registration Confirmation.
 </p>
 {% endif %}
 
@@ -434,7 +434,7 @@ rows to the table if you wish to break down the schedule
 further. To use this custom schedule here, replace the block
 of code below the Schedule `<h2>` header below with
 `{% include custom-schedule.html %}`.
-{% endcomment %}
+
 
 <h2 id="schedule">Schedule</h2>
 
@@ -452,7 +452,7 @@ See the contents of the _includes/custom_schedule.html file for an example of
 how one of these schedule tables is constructed.
 {% endcomment %}
 {% endif %}
-
+{% endcomment %}
 <hr/>
 
 
