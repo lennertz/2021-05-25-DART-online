@@ -57,6 +57,7 @@ It looks like you are setting up a website for a Software Carpentry curriculum b
 </div>
 {% endunless %}
 {% endif %}
+<h2> The University of Arkansas' participation in the Carpentries is sponsored by the <a href= "https://libraries.uark.edu">University of Arkansas Libraries</a> </h2>
 
 <h2>Register Now!</h2>
 <p>Please register separately for each workshop in the series. </p>
