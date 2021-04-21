@@ -452,9 +452,9 @@ See the contents of the _includes/custom_schedule.html file for an example of
 how one of these schedule tables is constructed.
 {% endcomment %}
 {% endif %}
-{% endcomment %}
-<hr/>
 
+<hr/>
+{% endcomment %}
 
 {% comment %}
 SETUP
