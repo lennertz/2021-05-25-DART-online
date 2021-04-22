@@ -9,12 +9,12 @@ country: "us"      # lowercase two-letter ISO country code such as "fr" (see htt
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the
 latitude: "45"        # decimal latitude of workshop venue (use https://www.latlong.net/)
 longitude: "-1"       # decimal longitude of the workshop venue (use https://www.latlong.net)
-humandate: "May 11-17, 2021"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "see below"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate: 2021-05-11     # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2021-05-17        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Lora Lennertz", "Mary Leverence", "Stephanie Pierce", "Austin Wilkins"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Jay McAllister"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+humandate: "May 15 - June 1, 2021"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humantime: "times vary"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
+startdate: 2021-05-15     # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2021-06-01        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+instructor: ["Adam Hughes","Lora Lennertz", "Mary Leverence", "Stephanie Pierce", "Austin Wilkins"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+helper: ["Michael Gibbs","Jay McAllister"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["datalib@uark.edu","lennertz@uark.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: https://pad.carpentries.org/May-UARK-Carpentries # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
@@ -66,11 +66,11 @@ It looks like you are setting up a website for a Software Carpentry curriculum b
 <div class="col-md-8">
   <table>
 <table class="table table-striped">
-<tr> <td>May 11, 1 pm - 4:30 pm</td>  <td><!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7627923" matches with the above code: jQuery("#s_lc_event_7627923")  //-->
-<a id = "s_lc_event_7732844" href="https://uark.libcal.com/calendar/Data/UnixMay11">Intro Unix Shell</a>
+<tr> <td>May 25, 1 pm - 4:30 pm</td>  <td><!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7627923" matches with the above code: jQuery("#s_lc_event_7627923")  //-->
+<a id = "s_lc_event_7732968" href="https://uark.libcal.com/calendar/Data/GitDARTMay25">Intro Unix Shell</a>
 <!-- Below is optional element styling  //-->
   <style>
-#s_lc_event_7732844 {
+#s_lc_event_7732968 {
   background: #2774AE;
   border: 1px solid #2774AE;
   border-radius: 4px;
@@ -79,16 +79,16 @@ It looks like you are setting up a website for a Software Carpentry curriculum b
   padding: 8px 20px;
   cursor: pointer;
 }
-#s_lc_event_7732844:hover {
+#s_lc_event_7732968:hover {
   opacity: 0.9;
 }
 </style>
 </td> </tr>
-      <tr> <td>May 13, 1 pm - 4:30pm </td>  <td><!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7627930" matches with the above code: jQuery("#s_lc_event_7627930")  //-->
-<a id="s_lc_event_7732854" href="https://uark.libcal.com/calendar/Data/GitMay13">Version Control with Git </a>
+      <tr> <td>May 27, 1 pm - 4:30pm </td>  <td><!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7627930" matches with the above code: jQuery("#s_lc_event_7627930")  //-->
+<a id="s_lc_event_7732976" href="https://uark.libcal.com/calendar/Data/GitDARTMay27"</a>Versioning with Git </a>
 <!-- Below is optional element styling  //-->
 <style>
-#s_lc_event_7732854 {
+#s_lc_event_7732976 {
   background: #2774AE;
   border: 1px solid #2774AE;
   border-radius: 4px;
@@ -97,16 +97,16 @@ It looks like you are setting up a website for a Software Carpentry curriculum b
   padding: 8px 20px;
   cursor: pointer;
 }
-#s_lc_event_7732854:hover {
+#s_lc_event_7732976:hover {
   opacity: 0.9;
 }
 </style>
 </td> </tr>
        <tr> <td>May 17, 9 am - 12:30pm </td>  <td><!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7627930" matches with the above code: jQuery("#s_lc_event_7627930")  //-->
-<a id="s_lc_event_7732907" href="https://uark.libcal.com/calendar/Data/UNIXMay17">Intro to Unix Shell </a>
+<a id="s_lc_event_7732984" href="https://uark.libcal.com/calendar/Data/DARTUnixJun1">Intro to Unix Shell </a>
 <!-- Below is optional element styling  //-->
 <style>
-#s_lc_event_7732907 {
+#s_lc_event_7732984 {
   background: #2774AE;
   border: 1px solid #2774AE;
   border-radius: 4px;
@@ -115,7 +115,7 @@ It looks like you are setting up a website for a Software Carpentry curriculum b
   padding: 8px 20px;
   cursor: pointer;
 }
-#s_lc_event_7732907:hover {
+#s_lc_event_7732984:hover {
   opacity: 0.9;
 }
 </style>
