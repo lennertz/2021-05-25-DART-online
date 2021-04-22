@@ -85,7 +85,7 @@ It looks like you are setting up a website for a Software Carpentry curriculum b
 </style>
 </td> </tr>
       <tr> <td>May 27, 1 pm - 4:30pm </td>  <td><!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7627930" matches with the above code: jQuery("#s_lc_event_7627930")  //-->
-<a id="s_lc_event_7732976" href="https://uark.libcal.com/calendar/Data/GitDARTMay27"</a>Versioning with Git </a>
+<a id="s_lc_event_7732976" href="https://uark.libcal.com/calendar/Data/GitDARTMay27"Versioning with Git </a>
 <!-- Below is optional element styling  //-->
 <style>
 #s_lc_event_7732976 {
@@ -102,7 +102,7 @@ It looks like you are setting up a website for a Software Carpentry curriculum b
 }
 </style>
 </td> </tr>
-       <tr> <td>May 17, 9 am - 12:30pm </td>  <td><!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7627930" matches with the above code: jQuery("#s_lc_event_7627930")  //-->
+       <tr> <td>June 1, 9 am - 12:30pm </td>  <td><!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7627930" matches with the above code: jQuery("#s_lc_event_7627930")  //-->
 <a id="s_lc_event_7732984" href="https://uark.libcal.com/calendar/Data/DARTUnixJun1">Intro to Unix Shell </a>
 <!-- Below is optional element styling  //-->
 <style>
